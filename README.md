@@ -21,8 +21,8 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ## 🔗 Links
-- 🌍 Site: [cyberguild.github.io](https://cyberguild.github.io/) - [🔴 Offline]
-- 📜 License: [CYBERGU!LD LICENSE v1.0](LICENSE)
+- 🌍 Site: [cyberguild77.github.io](https://cyberguild77.github.io/) - [🔴 Offline]
+- 📜 License: [CYBERGU!LD LICENSE v1.0](LICENSE.md)
 - 📫 Contato: [Linktree](https://linktr.ee/CYBERGUILD)
 
 ---
@@ -30,14 +30,14 @@
 ## 📈 Stats
 
 <p align="center">
-  <a href="https://github.com/CYBERGUILD">
-    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=CYBERGUILD&countColor=%23006EFF" alt="Profile Views"/>
+  <a href="https://github.com/CYBERGUILD77">
+    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=CYBERGUILD77&countColor=%23006EFF" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/CYBERGUILD?tab=followers">
-    <img height="25" src="https://img.shields.io/github/followers/CYBERGUILD?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  <a href="https://github.com/CYBERGUILD77?tab=followers">
+    <img height="25" src="https://img.shields.io/github/followers/CYBERGUILD77?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
   </a>
-  <a href="https://github.com/CYBERGUILD?tab=stars">
-    <img height="25" src="https://img.shields.io/github/stars/CYBERGUILD?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+  <a href="https://github.com/CYBERGUILD77?tab=stars">
+    <img height="25" src="https://img.shields.io/github/stars/CYBERGUILD77?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=CYBERGUILD&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=CYBERGUILD77&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 ---
