@@ -23,7 +23,7 @@
 ## 🔗 Links
 - 🌍 Site: [cyberguild77.github.io](https://cyberguild77.github.io/) - [🔴 Offline]
 - 📜 License: [CYBERGU!LD LICENSE v1.0](LICENSE.md)
-- 📫 Contato: [Linktree](https://linktr.ee/CYBERGUILD)
+- 📫 Contato: 🔴 Off
 
 ---
 
@@ -45,7 +45,7 @@
 
 <h2 align="center">⚔️ Join the CYBERGU!LD</h2>
 <p align="center">
-  <a href="https://discord.com/users/904046446666469397" target="_blank">
+  <a href="https://discord.com/users/1268008834149122110" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join%20Us-0088cc?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
