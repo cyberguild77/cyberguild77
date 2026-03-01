@@ -1,33 +1,42 @@
-# Welcome to CYBERGU!LD 🏴‍☠️
+<div align="center"> 
+CYBERGU!LD
+ 
+`CYG77` — Technology · Security · Development
+ 
+"Knowledge should be free, and curiosity, infinite."
+</div> 
 
-## 🌐 About Us
-**CYBERGU!LD (CYG77)** é uma organização anônima focada em tecnologia, hacking, suporte e desenvolvimento. Nosso objetivo é ajudar os próximos, promovendo o conhecimento e compartilhamento de informações sem restrições.
+## About
+ 
+CYBERGU!LD (CYG77) is an anonymous collective of developers, security researchers, and technologists united by a shared passion for building, breaking (ethically), and learning together.
+ 
+We operate at the intersection of cybersecurity and software development — fostering an open environment where knowledge flows freely and skills are sharpened through collaboration and mentorship.
+ 
+## What We Do
+ 
+* Bug Hunting — Responsible vulnerability research and disclosure
+* Security Research — Exploring attack surfaces to build better defenses
+* Software Development — Building tools, utilities, and open-source projects
+* Mentorship — Guiding newcomers on their journey into tech and security
+* Knowledge Sharing — No gatekeeping. We document, teach, and grow together
+ 
+## Skills & Technologies
+ 
 
-- 🎭 Anonimato e liberdade de conhecimento
-- ⚡ Focados em segurança, desenvolvimento e exploração tecnológica
-- 🔥 Comunidade de mentes inquietas e curiosas
-
-**"O conhecimento deve ser livre, e a curiosidade, infinita."**
-
----
-
-## 🛠️ Skills & Technologies
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-## 🔗 Links
-- 🌍 Site: [cyberguild77.github.io](https://cyberguild77.github.io/) - [🔴 Offline]
-- 📜 License: [CYBERGU!LD LICENSE v1.0](LICENSE.md)
-- 📫 Contato: 🔴 Off
-
----
-
-## 📈 Stats
+ 
+## We're Looking For
+ 
+We're actively seeking talented individuals:
+ 
+| Role | Description |
+|------|-------------|
+| Bug Hunters | Skilled researchers with experience in vuln discovery & responsible disclosure |
+| Elite Developers | Proficient coders passionate about low-level and security-oriented development |
+| Mentees | Newcomers eager to learn — no experience required, only curiosity |
+| Security Researchers | Analysts interested in threat modeling, pentesting, and CTF |
+ 
+ 
+## Stats
 
 <p align="center">
   <a href="https://github.com/CYBERGUILD77">
@@ -41,21 +50,5 @@
   </a>
 </p>
 
----
-
-<h2 align="center">⚔️ Join the CYBERGU!LD</h2>
-<p align="center">
-  <a href="https://discord.com/users/1268008834149122110" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join%20Us-0088cc?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=CYBERGUILD77&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
----
-
-### 🏴‍☠️ CYBERGU!LD: The shadows are watching.
+<p align="center"> Hello World! </p>
+<p align="center"><sub>CYBERGU!LD · Privacy is a privilege we haven't granted you yet.</sub></p>
